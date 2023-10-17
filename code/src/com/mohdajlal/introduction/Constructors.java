@@ -16,4 +16,6 @@ public class Constructors {
     }
 }
 
-// Outputs 5
+// Output
+
+// 5
